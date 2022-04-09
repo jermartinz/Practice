@@ -1,0 +1,44 @@
+body {
+    background-color: #034f84;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-family:  'Poppins', sans-serif;
+    color: white;
+    text-align: center;
+    margin: 50px;
+    font-size: 700;
+    display: block;
+}
+
+
+
+h3 {
+    font-family:  Poppins, sans-serif;
+    font-size: 500;
+    color: white;
+    margin-left: 50px;
+}
+
+dt{
+    font-family: 'Fira Code',  monospace;
+    background-color: antiquewhite;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: 15px 50px;
+    width: fit-content;
+}
+dd{
+    color: white;
+    margin-left: 100px;
+}
+pre{
+    font-family: 'Fira Code';
+    background-color: rgba(209, 202, 202, 0.26);
+    width: fit-content;
+
+}
+footer{
+    margin-top: 50px;
+    color: white;
+}

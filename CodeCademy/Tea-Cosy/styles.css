@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.header-container{
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    height: 69;
+    border-bottom: 1px solid seashell;
+    
+}
+   
+.logo-img{
+    display: flex;
+    height: 50px;
+    margin-left: 10px;
+    
+}
+
+.index {
+    font-size: 24px;
+    display: flex;
+    color: white;
+    text-decoration: underline;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    text-align: center;
+    
+}
+
+
+.center-container {
+    display: flex;
+    height: 700px;
+    justify-content: center;
+    
+}
+
+#center-items{
+    display: inline;
+    background-color: black;
+}
+
+#img-center{
+    height: 700px;
+}
+
