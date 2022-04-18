@@ -26,6 +26,8 @@ new_guest4 = guest_list.append("Chris")
 print(guest_list)
 print(f"Hi {guest_list[0]}, {guest_list[1]}, {guest_list[2]}, {guest_list[3]}, {guest_list[4]} and {guest_list[5]} i found a bigger dinner table!")
 
+#3.7
+
 print("Sorry, i only can invite two persons")
 
 cant_invite = guest_list.pop(2)
@@ -38,8 +40,11 @@ print(f"{guest_list.pop(0)} you are not invited yet")
 print(f"{guest_list.pop(1)} you are not invited yet")
 
 print(guest_list)
-del guest_list[0]
-del guest_list[0]
+#del guest_list[0]
+#del guest_list[0]
 
 
-print(guest_list)
+#print(guest_list)
+
+#3.9
+print(f"The number of guests is {len(guest_list)}")
