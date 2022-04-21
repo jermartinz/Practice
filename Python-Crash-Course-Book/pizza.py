@@ -67,7 +67,7 @@ for friend, places in favorite_places.items():
     print(f"\nThe favorite places of {friend.title()} is:")
     for place in places:
         print(f"\t{place.title()}")
-
+#6.11
 cities = {
     'paris': {
         'country': 'france',
