@@ -1,4 +1,4 @@
-'''prompt = "\nTell me something, and I wil repeat it back to you:"
+prompt = "\nTell me something, and I wil repeat it back to you:"
 prompt += "\nEnter  'quit' to end the program. "
 
 active = True
@@ -10,9 +10,9 @@ while active:
         active = False
     else:
         print(message)
-'''
 
-'''
+
+
 prompt = "\nPlease enter the name of a city you have visited"
 prompt += "\n(Enter 'quit' when you are finished.)"
 
@@ -22,9 +22,9 @@ while True:
         break
     else:
         print(f"I'd love to go {city.title()}")
-'''
+
 #7.4
-'''
+
 pizza_toppings = "\nEnter a toppings for you pizza:"
 pizza_toppings +="\nEnter 'quit' to end "
 
@@ -36,7 +36,7 @@ while active:
         active = False
     else:
         print(f"You added {message}")
-'''
+
 #7.5
 
 
