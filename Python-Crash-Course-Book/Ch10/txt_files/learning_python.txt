@@ -1,0 +1,2 @@
+In Python you can create variables, functions, dictonaries,
+classes and you make a lot of other things!
