@@ -3,5 +3,5 @@
 
 With this I hope to learn all that is needed to be a Full Stack Dev.
 
-To achieve this I will mainly use Codecademy and some books, I will also take certified courses to specialize more thoroughly.
+To achieve this I will mainly use Codecademy, The Odin project and some books, I will also take certified courses to specialize more thoroughly.
 
