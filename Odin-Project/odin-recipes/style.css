@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(236, 206, 168);
+}
+p, .main-title, .index, .ingredients, .directions, .section-title, .sub-section-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p, .ingredients, .directions{
+    font-size: 20px;
+}
+.index {
+    font-size: 24px;
+}
+.main-title{
+    color: rgb(43, 80, 55);
+    font-size: 42px;
+    text-align: center;
+}
