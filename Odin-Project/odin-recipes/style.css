@@ -1,17 +1,61 @@
 body{
     background-color: rgb(236, 206, 168);
 }
-p, .main-title, .index, .ingredients, .directions, .section-title, .sub-section-title{
+p, #home, .main-title, .index-item, .ingredients, .directions, .section-title, .sub-section-title{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 p, .ingredients, .directions{
     font-size: 20px;
 }
-.index {
-    font-size: 24px;
+.main-img{
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+}
+.img-item{
+    height: 640px;
+    width: auto;
+}
+
+.index-item {
+    flex-direction: row;
+    flex: 2;
+    display: flex;
+    justify-content: space-around;
+    
+    
+   
+    
+    
+    
+    
+}
+#recipe1, #recipe2, #recipe3{
+    background-color: aliceblue;
+    padding: 16px;
+    border: 4px;
+    border-radius: 2%;
+    margin: 16px;
+
+    
 }
 .main-title{
     color: rgb(43, 80, 55);
     font-size: 42px;
-    text-align: center;
+    
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 4px;
+    margin: 16px;
+}
+#home{
+    
+    font-size: 24px;
+    color: rgb(43, 80, 55);
+    padding: 8px;
+    margin: 8px;
+   
 }
